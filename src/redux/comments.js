@@ -1,4 +1,3 @@
-import {COMMENTS} from '../shared/comments';
 import * as ActionTypes from '../redux/ActionTypes';
 
 export const Comments = (state = {errMess: null, comments: []}, action) =>{

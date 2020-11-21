@@ -1,5 +1,3 @@
-import { actionTypes } from 'react-redux-form';
-import {PROMOTIONS} from '../shared/promotions';
 import * as ActionTypes from '../redux/ActionTypes';
 
 export const Promotions = (state = { isLoading: true,
